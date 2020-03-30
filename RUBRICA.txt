@@ -1,0 +1,17 @@
+Puntos hechos:
+terrain y foliage
+Hay mapeadas 2 nuevas entradas a inputs (en Actions), Sequence y Sound.
+Las 3 luces estan hechas pero el ciclo de día y noche peta, no entiendo por qué.
+Con la H se lanza un sonido.
+Con la Z se reproduce una Sequence.
+Con la P se posee al NPC y volviendo a pulsar P se vuelve al player.
+El HUD muestra loa objetos recogidos y la vida del player, aunque no me funcionaba el conectar el hud con la variable de vida ni la cantidad de monedas, he pasado demasiado rato buscando el error y no lo he encontrado.
+El código de la zona de muerte y la zona de confusión eestá hecho pero no consigo que funcione (en las prácticas si me funcionaba, no entiendo que pasa)
+
+
+
+
+
+Nota:
+Personalmente creo que el exámen era demasiado largo, habían muchos puntos con bastante contenido que cuentan muy poco. 
+Yo por ejemplo soy artista y no se me da bien programar y a pesar de tener 4 horas no ha habido manera de hacer muchas cosas a tiempo.
