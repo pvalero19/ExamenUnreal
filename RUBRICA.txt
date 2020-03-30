@@ -6,8 +6,8 @@ Con la H se lanza un sonido.
 Con la Z se reproduce una Sequence.
 Con la P se posee al NPC y volviendo a pulsar P se vuelve al player.
 El HUD muestra loa objetos recogidos y la vida del player, aunque no me funcionaba el conectar el hud con la variable de vida ni la cantidad de monedas, he pasado demasiado rato buscando el error y no lo he encontrado.
-El código de la zona de muerte y la zona de confusión eestá hecho pero no consigo que funcione (en las prácticas si me funcionaba, no entiendo que pasa)
-
+El código de la zona de confusión está hecho pero no consigo que funcione (en las prácticas si me funcionaba, no entiendo que pasa)
+La zona de muerte y la moneda reccolectable estan implementadas
 
 
 
